@@ -1,5 +1,6 @@
 {
   "name": "typinggame",
+  "homepage" : "http://midteide.com/typinggame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

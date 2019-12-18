@@ -1,0 +1,39 @@
+
+
+
+html, body {
+    background: rgb(235, 233, 233);
+    color: #359e35;
+    margin:0;
+    padding: 0;
+    padding-top: 10px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+body {
+    font-weight: 400;
+}
+
+.box {
+    display: block;
+    align-content: center;
+    margin: 0 auto;
+    width: 60%;
+}
+
+h1 {
+    color: #359e35;
+
+}
+
+textarea {
+    font-family: 'Press Start 2P', cursive;
+    border: 3px solid black;
+    width: 90%;
+    margin: 0 auto;
+    outline: none;
+    height: 200px;
+    background: #00b800;
+    padding: 10px;
+}
